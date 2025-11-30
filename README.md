@@ -1,4 +1,4 @@
 # IBIN
 <p align="center">
- <img src="images/IBIN.svg" alt="Logo" width="200">
+ <img src="images/IBIN.svg" alt="Logo" style="width: 100%;">
 </p>
